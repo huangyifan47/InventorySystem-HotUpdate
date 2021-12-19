@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2797453102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2823cac7cc1c9c4ebf879130f56fa09d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6cb1236fbd59f90552f7b2b190120d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d38f30c5509573f4f85b2f703cd1c43b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddb3ab5b8d269d549ab98dd96ecb6d35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f2370bc9c39cf14882d13c2605f35bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad3b827ef135d974ca0770b29a875038, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Slot.prefab
+- Assets/Prefabs/EquipmentSlot.prefab
+- Assets/Prefabs/Item.prefab
+- Assets/Prefabs/VendorSlot.prefab
+Dependencies: []

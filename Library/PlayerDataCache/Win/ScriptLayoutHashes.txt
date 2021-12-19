@@ -1,0 +1,27 @@
+Win
+PlayerPath?
+G:/UnityProject2/temp/newScene.unity3d
+SceneListBegin?
+Assets/Scenes/Main.unity
+SceneListEnd?
+507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
+4bc4346a71a8df53a6b106f68ef3a190 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+8aa3d6ccbcb54ee8db6c1229854adaaa UnityEngine.UI.dll:UnityEngine.UI.ContentSizeFitter
+cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+ae83e830e7a90c0aff918c4c2e520825 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+7ab0e790220bdca831fdd886b339039d UnityEngine.UI.dll:UnityEngine.UI.GridLayoutGroup
+e6baf3ef68d60bd0901dfb91c02bc1c3 UnityEngine.UI.dll:UnityEngine.UI.Image
+748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+72712369a7c681ad84fc255a5ec0b333 UnityEngine.UI.dll:UnityEngine.UI.Text
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Forge
+badc8d355a63a7b0291547b12e2277fc Assembly-CSharp.dll:.VendorSlot
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Knapsack
+5cf3adf9b99713c39d4bfea71600e25c Assembly-CSharp.dll:.Vendor
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.InventoryManager
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.CharacterPanel
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Player
+badc8d355a63a7b0291547b12e2277fc Assembly-CSharp.dll:.Slot
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.ItemUI
+0bdede6b9064d447c6618eb0cc0dfab1 Assembly-CSharp.dll:.EquipmentSlot
+0756f30b0916fc442e1e0b8dae2ce999 Assembly-CSharp.dll:.ToolTip
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Chest

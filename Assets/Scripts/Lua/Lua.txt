@@ -1,0 +1,8 @@
+import "UnityEngine"
+
+function main()
+    print("Lua创建了一个Cube")
+    local cube = GameObject.CreatePrimitive(PrimitiveType.Cube)
+end
+
+main()
